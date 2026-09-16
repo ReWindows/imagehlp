@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "imagehlp.dll",
+  "latest": "2156568970-86E106E3755AABC5008BF69644E7EFCF-1",
+  "builds": [
+    {
+      "key": "2156568970-86E106E3755AABC5008BF69644E7EFCF-1",
+      "timestamp": "2156568970",
+      "pdb_guid": "86E106E3755AABC5008BF69644E7EFCF",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/2156568970-86E106E3755AABC5008BF69644E7EFCF-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
